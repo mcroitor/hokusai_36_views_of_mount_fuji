@@ -135,7 +135,7 @@
 - *"A sketch of the Mitsui shop in Suruga in Edo"*
 - *"Edo Suruga-cho Mitsui mise ryakuzu"*
 
-![A sketch of the Mitsui shop in Suruga in Edo](./images2/11_A_sketch_of_the_Mitsui_shop_in_Suruga_in_Edo.jpg)
+![A sketch of the Mitsui shop in Suruga in Edo](./images2/11_A_sketch_of_the_Mitsui_shop_in_Suruga.jpg)
 
 Самый интересный аспект отпечатка — его связь с деньгами. На первый взгляд, отпечаток изображает текстильный магазин, который посещают несколько клиентов и люди разных классов. Однако исследование местоположения и имени Мицуй открывает интересные связи с деньгами, выходящие за рамки того, что можно увидеть на отпечатке. Эчигойя, наряду с другими магазинами, принадлежащими Мицуй, использовал стратегию, которая ранее не применялась в Японии. Традиционно портные посещали клиентов, снимали мерки и заказы. Затем одежда изготавливалась позже и доставлялась клиенту в течение нескольких дней. В Эчигойя кимоно и другая одежда изготавливались заранее и продавались по фиксированной цене. Одежду можно было подогнать на месте, и некоторые клиенты уезжали с заказом «после короткого ожидания».
 
@@ -171,7 +171,7 @@
 - *"Tea house at Koishikawa. The morning after a snowfall"*
 - *"Koishikawa yuki no ashita"*
 
-![Tea house at Koishikawa. The morning after a snowfall](./images2/14_Tea_house_at_Koishikawa_The_morning_after_a_snowfall.jpg)
+![Tea house at Koishikawa. The morning after a snowfall](./images2/14_Tea_house_at_Koishikawa.jpg)
 
 На картине изображена группа мужчин и женщин на террасе чайного домика, смотрящих на гору Фудзи. Чайный домик может показаться невинным местом, но в то время, когда работал Хокусай, чайный домик часто был местом для тайных встреч парочек. Тем не менее, все, глядя на преобразованный пейзаж, испытывают благоговение и удивление перед изменениями, принесёнными снегопадом.
 
@@ -245,7 +245,7 @@
 - *"The Kazusa Province sea route"*
 - *"Kazusa no kairo"*
 
-![The Kazusa Province Sea Route](./images2/20_The_Kazusa_Province_Sea_Route.jpg)
+![The Kazusa Province Sea Route](./images2/20_The_Kazusa_Province_sea_route.jpg)
 
 На картине «Морской путь в провинции Кадзуса» изображена очень большая деревянная лодка, плывущая по спокойному океану. Вода здесь выглядит значительно спокойнее, чем на, пожалуй, самой известной работе Хокусая — «Большая волна у Канагавы».
 
@@ -257,7 +257,7 @@
 - *"Nihonbashi bridge in Edo"*
 - *"Nihonbashi in Edo"*
 
-![Nihonbashi Bridge in Edo](./images2/21_Nihonbashi_Bridge_in_Edo.jpg)
+![Nihonbashi Bridge in Edo](./images2/21_Nihonbashi_bridge_in_Edo.jpg)
 
 Композиция интересна тем, что изображение кажется обрезанным, и вы не будете одиноки в том, что подумаете, что изображение было изменено на вашем экране, но это не так — так было задумано. Считается, что цель заключалась в том, чтобы создать впечатление, что вы являетесь частью сцены, пробираясь сквозь бурлящие толпы, пытающихся перейти мост. Хаотичная сцена делает сам мост едва различимым, его можно разглядеть, если очень внимательно посмотреть в нижней части картины и заметить финишное украшение на столбе ворот.
 
@@ -293,7 +293,7 @@
 - *"The lake of Hakone in Sagami Province"*
 - *"Sōshū Hakone kosui"*
 
-![The Lake of Hakone in Sagami Province](./images2/24_The_Lake_of_Hakone_in_Sagami_Province.jpg)
+![The Lake of Hakone in Sagami Province](./images2/24_The_lake_of_Hakone_in_Sagami_Province.jpg)
 
 Провинция Сагами — это современная префектура Канагава. Озеро Хаконе, или озеро Аси, изображено без ряби на поверхности. Вокруг озера раскинулся густой лес, а за ним тянется дымка. На противоположной стороне от Фудзи находится гора Комагатаке. Это тихая и торжественная ксилография укиё-э, на которой нет людей или животных.
 
@@ -365,7 +365,7 @@
 - *"Shichiri beach in Sagami Province"*
 - *"Sōshū Shichiri-ga-hama"*
 
-![Shichiri Beach in Sagami Province](./images2/30_Shichiri_Beach_in_Sagami_Province.jpg)
+![Shichiri Beach in Sagami Province](./images2/30_Shichiri_beach_in_Sagami_Province.jpg)
 
 Цвета традиционно японские. Искусство Хокусая показывает, как люди соединяются с природой в повседневной жизни. Он смешивал традиционные методы и западные, его работы вдохновляли таких художников, как Дега и Моне.
 
@@ -413,7 +413,7 @@
 - *"Mount Fuji from the mountains of Totomi"*
 - *"Tōtōmi sanchū"*
 
-![Mount Fuji from the Mountains of Totomi](./images2/34_Mount_Fuji_from_the_Mountains_of_Totomi.jpg)
+![Mount Fuji from the Mountains of Totomi](./images2/34_Mount_Fuji_from_the_mountains_of_Totomi.jpg)
 
 Гора Фудзи изображена с гор Тотоми. Для печати использовалась ксилография; цвет на бумаге в период Эдо.
 

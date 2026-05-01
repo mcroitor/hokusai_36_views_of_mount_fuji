@@ -9,3 +9,6 @@
 ![Fuji View Field in Owari Province](./images2/09_Fuji_View_Field_in_Owari_Province.jpg)
 
 На гравюре изображён человек за работой, а фон выполнен так, что напоминает театральную сцену. В этой работе Хокусай экспериментировал с восточными традициями и западными техниками.
+
+- [К оглавлению](./Thirty-six_Views.md)
+- [Вперёд](./10_Ejiri_in_Suruga_Province.md)

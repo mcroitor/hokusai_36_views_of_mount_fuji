@@ -58,3 +58,29 @@
 ## Ссылки
 
 1. Henry DeWitt Smith (II), One hundred views of Mt. Fuji: George Braziller, 1988
+
+## Коллекции
+
+### Япония
+
+- [Музей Хокусая в Сумиде (Sumida Hokusai Museum), Токио, Япония](https://www.sumida-museum.jp/)
+- [Токийский национальный музей (Tokyo National Museum), Токио, Япония](https://www.tnm.jp/)
+- [Художественный музей Ота (Ota Memorial Museum of Art), Токио, Япония](https://www.otamuseum.jp/)
+- [Музей искусств Мори (Mori Art Museum), Токио, Япония](https://www.mori.art.museum/)
+- [Музей искусств Фукуока (Fukuoka Art Museum), Фукуока, Япония](https://www.fukuoka-art-museum.jp/)
+
+### Европа
+
+- [Британский музей (British Museum), Лондон, Великобритания](https://www.britishmuseum.org/)
+- [Музей Гиме (Musée Guimet), Париж, Франция](https://www.guimet.fr/)
+- [Музей Клода Моне, Живерни (Musée Claude Monet, Giverny), Франция](https://claudemonetgiverny.fr/)
+- [Государственные музеи Берлина (Staatliche Museen zu Berlin), Германия](https://www.smb.museum/)
+- [Маффей Палаццо (Maffei Palazzo), Верона, Италия](https://palazzomaffeiverona.com/en/collection/artists/katsushika-hokusai/)
+- [Государственный музей (Rijksmuseum), Амстердам, Нидерланды](https://www.rijksmuseum.nl/en/collection)
+- [Государственный Эрмитаж, Санкт-Петербург, Россия](https://www.hermitagemuseum.org/)
+
+### США
+
+- [Музей Метрополитен (The Met), Нью-Йорк, США](https://www.metmuseum.org/art/collection/)
+- [Музей изящных искусств (MFA), Бостон, США](https://www.mfa.org/)
+- [Институт искусств Чикаго (Art Institute of Chicago), США](https://www.artic.edu/artworks/)

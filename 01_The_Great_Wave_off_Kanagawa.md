@@ -11,13 +11,6 @@
 ## Описание
 
 - **Размер:** 25.7 см × 37.9 см
-- **Где можно увидеть:**
-  - [Музей Метрополитен (The Met), Нью-Йорк, США](https://www.metmuseum.org/art/collection/search/39799)
-  - [Британский музей (British Museum), Лондон, Великобритания](https://www.britishmuseum.org)
-  - [Институт искусств Чикаго (Art Institute of Chicago), США](https://www.artic.edu/artworks/89503/under-the-wave-off-kanagawa-kanagawa-oki-nami-ura-also-known-as-the-great-wave-from-the-series-thirty-six-views-of-mount-fuji-fugaku-sanjurokkei)
-  - [Музей Сумиды Хокусая (Sumida Hokusai Museum), Токио, Япония](https://hokusai-museum.jp/?lang=en)
-  - [Национальный музей Токио (Tokyo National Museum), Токио, Япония](https://www.tnm.jp/?lang=en)
-  - [Маффей Палаццо (Maffei Palazzo), Верона, Италия](https://palazzomaffeiverona.com/en/collection/artists/katsushika-hokusai/)
 
 Данное произведение является одним из самых известных и узнаваемых в мире.
 
